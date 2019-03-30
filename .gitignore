@@ -2,7 +2,7 @@
 
 # dependencies
 /Backend/api-server/node_modules
-#/Frontend/Leitura/node_modules
+/Frontend/Leitura/node_modules
 /.pnp
 .pnp.js
 
