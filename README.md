@@ -23,7 +23,7 @@ Na listagem é exibido as informações principais de cada post:
 - Comandos para Like e Unlike
 
 ### Análise de Posts
-Os posts da lista prncipal podem ser analisados através do botão de Detail.
+Os posts da lista prncipal podem ser analisados através do botão de `Detail`.
 Esta funcionalidade expõe a possibilidade de edição e exclusão do post em questão. Nesta tela também pode ser visualizado a lista de comentários deste post e os controles de comentário e de votação.
 - Título
 - Texto do Post
