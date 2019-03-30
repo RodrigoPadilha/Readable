@@ -43,7 +43,7 @@ Ao selecionar a opção de incluir novo comentário é visualizado uma Dialog so
 - Autor
 
 ## Especificadades do projeto:
-As funções que foram implementadas utilizando:
+As funcionalidades foram desenvolvidas utilizando as seguintes ferramentas:
 - React + Redux;
 - Reac Router;
 - Estilização com React-Bootstrap;
