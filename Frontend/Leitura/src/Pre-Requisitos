@@ -1,0 +1,16 @@
+Voto
+    O mecanismo de votos funciona e exibe corretamente a nova pontuação dos votos após um clique.
+    O mecanismo de voto funciona e exibe corretamente a nova pontuação de votos ao clicar para votar na postagem E NOS COMENTÁRIOS
+
+Comentário
+    Exibir Pontuação atual
+
+Categorias
+    Todas as postagens de uma categoria estão listadas em /:category
+    As páginas de lista das postagens (raíz / e categoria /:category) incluem um mecanismo para ordená-las por data ou pontuação (não obrigatório ter ambos), e essa ordenação funciona corretamente.
+    Todas as categorias disponíveis são visíveis em qualquer página de lista de postagens.    
+
+Página de ERRO
+    Existe um mecanismo para a remoção de postagens e comentários. Clicar no botão/link exclui corretamente a postagem/comentário da view de lista e faz com que 
+    não seja mais possível acessá-lo(a) pela URL. Quando o usuário vai para a URL de um post deletado, uma página 404 é exibida.
+
