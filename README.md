@@ -3,13 +3,13 @@
 ## Visão geral do projeto:
 Nesta aplicação, a página principal exibe:
 
-Menu de navegação que possui um link para:
-- Lista de posts;
-- Add novo Posts.
+- Menu de navegação que possui um link para:
+    - Lista de posts;
+    - Add novo Posts.
 
-Lista de "posts" com as principais informações dos posts em destaque;
-Filtro da lista que exibe as opções de listagem por catgorias;
-Componente de Ordenação com as opções de listagem em ordem de data de postegem ou de posts mais votados.
+- Lista de "posts" com as principais informações dos posts em destaque;
+- Filtro da lista que exibe as opções de listagem por catgorias;
+- Componente de Ordenação com as opções de listagem em ordem de data de postegem ou de posts mais votados.
 
 ### Lista de Posts
 Na listagem é exibido as informações principais de cada post:
